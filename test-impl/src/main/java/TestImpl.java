@@ -1,2 +1,2 @@
-public class TestImpl {
+public class TestImpl<E> {
 }

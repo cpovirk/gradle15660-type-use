@@ -1,5 +1,5 @@
 apply plugin: 'java-library'
 
 dependencies {
-    api project(':test-lib')
+    implementation project(':test-lib')
 }

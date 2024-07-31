@@ -1,3 +1,3 @@
-rootProject.name = 'gradle15660'
+rootProject.name = 'gradle15660-type-use'
 
 include("my-test", "test-lib", "test-impl")

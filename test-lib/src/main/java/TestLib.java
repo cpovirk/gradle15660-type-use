@@ -1,7 +1,5 @@
-public class TestLib {
-    public void foo(String s) {
-    }
+import org.jspecify.annotations.Nullable;
 
-    private void foo(TestImpl impl) {
-    }
+public class TestLib {
+    private @Nullable TestImpl<String> impl;
 }
